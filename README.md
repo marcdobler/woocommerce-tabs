@@ -1,2 +1,2 @@
-# woocommerce-tabs
+# Woocommerce Tabs
 Woocommerce Tabs Account
